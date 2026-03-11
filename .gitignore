@@ -1,0 +1,9 @@
+client/.env
+util_server/.env
+util_server/node_modules
+client/node_modules
+
+rag_server/.env
+rag_server/venv
+rag_server/__pycache__/
+rag_server/*.pyc
